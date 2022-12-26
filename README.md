@@ -5,7 +5,7 @@
   </a>
   
 This repository contains a **collection of awesome programming books** available for free
-📚 collection of awesome programming books "FREE"
+
 # Books :books:
 - [Clean Code](#books-books)
 - [Object-Oriented Programming](#books-books)

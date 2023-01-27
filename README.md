@@ -1,12 +1,12 @@
-# PdfProgrammingBooks :book:
+# BestProgrammingBooks :book:
 
 <a href="https://www.linkedin.com/in/adel-ayman-2497ab1b3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-This repository contains a collection of awesome programming books available for free. this repository contains **+5800 books** 
+This repository contains a collection of awesome programming books. repository contains **+5800 books** 
 
-# Books :books:
+# Topics :books:
 - [Clean Code](#clean-code)
 - [Object-Oriented Programming](#object-oriented-programming)
 - [Design Patterns](#design-patterns)
@@ -1103,14 +1103,14 @@ This repository contains a collection of awesome programming books available for
 - [📕 Mathematical Statistics and Data Analysis](978-8131519547)
 - [📕 Introduction to Probability, Dimitri P. Bertsekas](978-1886529236)
 - [📕 Probability and Statistical Inference](978-0321923271)
-- [📕 Probability and Statistics for Engineering and the Sciences](tempPDFLink)
-- [📕 Think Bayes](tempPDFLink)
-- [📕 Probability for Dummies](tempPDFLink)
-- [📕 Bayesian Statistics The Fun Way](tempPDFLink)
-- [📕 Introduction to Probability](tempPDFLink)
-- [📕 Statistics](tempPDFLink)
-- [📕 Real Analysis and Probability](tempPDFLink)
-- [📕 Introduction to Linear Regression Analysis](tempPDFLink)
+- [📕 Probability and Statistics for Engineering and the Sciences](978-1305251809)
+- [📕 Think Bayes](978-1492089469)
+- [📕 Probability for Dummies](978-0471751410)
+- [📕 Bayesian Statistics The Fun Way](978-1593279561)
+- [📕 Introduction to Probability](978-1138369917)
+- [📕 Statistics](978-1119386056)
+- [📕 Real Analysis and Probability](978-0521007542)
+- [📕 Introduction to Linear Regression Analysis](978-0470542811)
 - [📕 Statistics, The Art and Science of Learning from Data](tempPDFLink)
 - [📕 The Lady Tasting Tea](tempPDFLink)
 - [📕 Discovering Statistics Using IBM SPSS Statistics](tempPDFLink)

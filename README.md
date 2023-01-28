@@ -1167,11 +1167,11 @@ This repository contains a collection of awesome programming books. repository c
 
 ## Machine Learning
 
-- [📕 Mathematics for Machine Learning](tempPDFLink)
-- [📕 Pattern Recognition and Machine Learning](tempPDFLink)
-- [📕 Grokking Machine Learning](tempPDFLink)
-- [📕 The Hundred-Page Machine Learning Book](tempPDFLink)
-- [📕 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](tempPDFLink)
+- [📕 Mathematics for Machine Learning](https://www.amazon.com/exec/obidos/ASIN/110845514X/_0-20)
+- [📕 Pattern Recognition and Machine Learning](https://www.amazon.com/exec/obidos/ASIN/0387310738/_0-20)
+- [📕 Grokking Machine Learning](https://www.amazon.com/exec/obidos/ASIN/1617295914/_0-20)
+- [📕 The Hundred-Page Machine Learning Book](https://www.amazon.com/exec/obidos/ASIN/199957950X/_0-20)
+- [📕 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/exec/obidos/ASIN/1492032646/_0-20)
 - [📕 Machine Learning Design Patterns](tempPDFLink)
 - [📕 The Elements of Statistical Learning](tempPDFLink)
 - [📕 An Introduction to Statistical Learning](tempPDFLink)

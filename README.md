@@ -1332,11 +1332,11 @@ This repository contains a collection of awesome programming books. repository c
 
 ## Deep Learning
 
-- [📕 Deep Learning](tempPDFLink)
-- [📕 Deep Learning with Python](tempPDFLink)
-- [📕 Grokking Deep Learning](tempPDFLink)
-- [📕 Grokking Deep Reinforcement Learning](tempPDFLink)
-- [📕 Deep Learning for Coders with fastai and PyTorch](tempPDFLink)
+- [📕 Deep Learning](https://www.amazon.com/exec/obidos/ASIN/0262035618/_0-20)
+- [📕 Deep Learning with Python](https://www.amazon.com/exec/obidos/ASIN/1617296864/_0-20)
+- [📕 Grokking Deep Learning](https://www.amazon.com/exec/obidos/ASIN/1617293709/_0-20)
+- [📕 Grokking Deep Reinforcement Learning](https://www.amazon.com/exec/obidos/ASIN/1617295450/_0-20)
+- [📕 Deep Learning for Coders with fastai and PyTorch](https://www.amazon.com/exec/obidos/ASIN/1492045527/_0-20)
 - [📕 Dive into Deep Learning](tempPDFLink)
 - [📕 Deep Learning, A Visual Approach](tempPDFLink)
 - [📕 Deep Learning in Computer Vision](tempPDFLink)

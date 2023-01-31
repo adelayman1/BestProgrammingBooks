@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-This repository contains a collection of awesome programming books. repository contains **+5800 books** 
+This repository contains a collection of awesome programming books. repository contains **+5800 books** in many topics
 
 # Topics :books:
 - [Clean Code](#clean-code)

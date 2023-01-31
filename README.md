@@ -1400,12 +1400,12 @@ This repository contains a collection of awesome programming books. repository c
 - [📕 Applied Deep Learning with TensorFlow 2](https://www.amazon.com/exec/obidos/ASIN/1484280199/_0-20)
 - [📕 Fundamentals and Methods of Machine and Deep Learning](https://www.amazon.com/exec/obidos/ASIN/B09RQCJX38/_0-20)
 - [📕 Deep Generative Modeling](https://www.amazon.com/exec/obidos/ASIN/3030931579/_0-20)
-- [📕 Beginning Deep Learning with TensorFlow](tempPDFLink)
-- [📕 Hands-On Mathematics for Deep Learning](tempPDFLink)
-- [📕 The TensorFlow Workshop](tempPDFLink)
-- [📕 Deep Learning with Azure](tempPDFLink)
-- [📕 Deep Learning, A Comprehensive Guide](tempPDFLink)
-- [📕 Modern Deep Learning Design and Application Development](tempPDFLink)
+- [📕 Beginning Deep Learning with TensorFlow](https://www.amazon.com/exec/obidos/ASIN/148427914X/_0-20)
+- [📕 Hands-On Mathematics for Deep Learning](https://www.amazon.com/exec/obidos/ASIN/1838647295/_0-20)
+- [📕 The TensorFlow Workshop](https://www.amazon.com/exec/obidos/ASIN/1800205252/_0-20)
+- [📕 Deep Learning with Azure](https://www.amazon.com/exec/obidos/ASIN/1484236785/_0-20)
+- [📕 Deep Learning, A Comprehensive Guide](https://www.amazon.com/exec/obidos/ASIN/1032028823/_0-20)
+- [📕 Modern Deep Learning Design and Application Development](https://www.amazon.com/exec/obidos/ASIN/1484274121/_0-20)
 
 ## Data Science
 

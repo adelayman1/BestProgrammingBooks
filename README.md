@@ -1409,11 +1409,11 @@ This repository contains a collection of awesome programming books. repository c
 
 ## Data Science
 
-- [📕 Data Science from Scratch](tempPDFLink)
-- [📕 Thinking with Data](tempPDFLink)
-- [📕 Data Science For Dummies](tempPDFLink)
-- [📕 Python Data Science Handbook](tempPDFLink)
-- [📕 Ace the Data Science Interview](tempPDFLink)
+- [📕 Data Science from Scratch](https://www.amazon.com/exec/obidos/ASIN/1492041130/_0-20)
+- [📕 Thinking with Data](https://www.amazon.com/exec/obidos/ASIN/1449362931/_0-20)
+- [📕 Data Science For Dummies](https://www.amazon.com/exec/obidos/ASIN/1119811554/_0-20)
+- [📕 Python Data Science Handbook](https://www.amazon.com/exec/obidos/ASIN/1491912057/_0-20)
+- [📕 Ace the Data Science Interview](https://www.amazon.com/exec/obidos/ASIN/0578973839/_0-20)
 - [📕 Data Science for Business](tempPDFLink)
 - [📕 The Art of Data Science](tempPDFLink)
 - [📕 Fundamentals of Data Engineering](tempPDFLink)

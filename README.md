@@ -1516,12 +1516,12 @@ This repository contains a collection of awesome programming books. repository c
 
 ## Data Analysis
 
-- [📕 Head First Data Analysis](tempPDFLink)
-- [📕 SQL for Data Analysis](tempPDFLink)
-- [📕 Data Smart](tempPDFLink)
-- [📕 Excel Data Analysis For Dummies](tempPDFLink)
-- [📕 Think Stats](tempPDFLink)
-- [📕 Python for Data Analysis](tempPDFLink)
+- [📕 Head First Data Analysis](https://www.amazon.com/exec/obidos/ASIN/0596153937/_0-20)
+- [📕 SQL for Data Analysis](https://www.amazon.com/exec/obidos/ASIN/1492088781/_0-20)
+- [📕 Data Smart](https://www.amazon.com/exec/obidos/ASIN/111866146X/_0-20)
+- [📕 Excel Data Analysis For Dummies](https://www.amazon.com/exec/obidos/ASIN/1119844428/_0-20)
+- [📕 Think Stats](https://www.amazon.com/exec/obidos/ASIN/1491907339/_0-20)
+- [📕 Python for Data Analysis](https://www.amazon.com/exec/obidos/ASIN/109810403X/_0-20)
 - [📕 AWS Certified Data Analytics Study Guide](tempPDFLink)
 - [📕 Data Mesh](tempPDFLink)
 - [📕 The Kaggle Book](tempPDFLink)

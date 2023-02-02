@@ -1609,10 +1609,10 @@ This repository contains a collection of awesome programming books. repository c
 
 ## Data Visualization
 
-- [📕 Storytelling with Data](tempPDFLink)
-- [📕 Storytelling with Data, Let's Practice!](tempPDFLink)
-- [📕 The Big Book of Dashboards](tempPDFLink)
-- [📕 Innovative Tableau](tempPDFLink)
+- [📕 Storytelling with Data](https://www.amazon.com/exec/obidos/ASIN/1119002257/_0-20)
+- [📕 Storytelling with Data, Let's Practice!](https://www.amazon.com/exec/obidos/ASIN/1119621496/_0-20)
+- [📕 The Big Book of Dashboards](https://www.amazon.com/exec/obidos/ASIN/1119282713/_0-20)
+- [📕 Innovative Tableau](https://www.amazon.com/exec/obidos/ASIN/1492075655/_0-20)
 - [📕 Fundamentals of Data Visualization](tempPDFLink)
 - [📕 Effective Data Storytelling](tempPDFLink)
 - [📕 Mastering Tableau 2021](tempPDFLink)

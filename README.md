@@ -1634,11 +1634,11 @@ This repository contains a collection of awesome programming books. repository c
 - [📕 Getting Started with Grafana](https://www.amazon.com/exec/obidos/ASIN/1484283082/_0-20)
 - [📕 Tableau Strategies](https://www.amazon.com/exec/obidos/ASIN/149208008X/_0-20)
 - [📕 How to Talk About Data, Build Your Data Fluency](https://www.amazon.co.uk/Talk-about-Data-Build-Fluency/dp/1292421193)
-- [📕 Impactful Data Visualization](tempPDFLink)
-- [📕 Data Democratization with Domo](tempPDFLink)
-- [📕 Functional Aesthetics for Data Visualization](tempPDFLink)
-- [📕 The Tableau Workshop](tempPDFLink)
-- [📕 Data Visualization, Exploring and Explaining with Data](tempPDFLink)
+- [📕 Impactful Data Visualization](https://www.amazon.com/exec/obidos/ASIN/9354795544/_0-20)
+- [📕 Data Democratization with Domo](https://www.amazon.com/exec/obidos/ASIN/1800568428/_0-20)
+- [📕 Functional Aesthetics for Data Visualization](https://www.amazon.com/exec/obidos/ASIN/1119810086/_0-20)
+- [📕 The Tableau Workshop](https://www.amazon.com/exec/obidos/ASIN/1800207654/_0-20)
+- [📕 Data Visualization, Exploring and Explaining with Data](https://www.amazon.com/exec/obidos/ASIN/035763134X/_0-20)
 
 ## Big Data
 

@@ -1639,9 +1639,9 @@ This repository contains a collection of awesome programming books. repository c
 
 ## Big Data
 
-- [📕 The Data Warehouse Toolkit](tempPDFLink)
-- [📕 Kafka, The Definitive Guide](tempPDFLink)
-- [📕 Hadoop, The Definitive Guide](tempPDFLink)
+- [📕 The Data Warehouse Toolkit](https://www.amazon.com/exec/obidos/ASIN/1118530802/_0-20)
+- [📕 Kafka, The Definitive Guide](https://www.amazon.com/exec/obidos/ASIN/1492043087/_0-20)
+- [📕 Hadoop, The Definitive Guide](https://www.amazon.com/exec/obidos/ASIN/1491901632/_0-20)
 - [📕 Data Pipelines with Apache Airflow](tempPDFLink)
 - [📕 Big Data, Principles and Best Practices of Scalable Realtime Data Systems](tempPDFLink)
 - [📕 Learning Spark](tempPDFLink)
